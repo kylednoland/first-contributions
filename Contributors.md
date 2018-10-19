@@ -8394,6 +8394,7 @@ Orandi Harris
 - [Mariana Brito](https://github.com/BritoMari)
 - [Luis Espinal](https://github.com/lespinalrivera)
 - [Chris Webster](https://github.com/whycantidraw)
+- [Kyle Noland](https://github.com/kylednoland)
 - [Grant Fogle](https://github.com/grantfogle)
 - [phaneendrababu](https://github.com/phaneendrababu)
 - [Nazmi feeroz](https://github.com/nazmifeeroz)
@@ -8455,4 +8456,3 @@ Orandi Harris
 - [Shnibl](https://github.com/shnibl)
 - [Adam Freeman](https://github.com/adamfr33man)
 - [Joshua Aquino](https://github.com/joshdaquino)
-- [Kyle Noland](https://github.com/kylednoland)
